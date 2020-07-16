@@ -1,4 +1,5 @@
 ### Hi there! I'm Marc 👋
+I'm passionate about improving company and workflow efficiency, particularly in the realm of software. Leveraging my background in logistics and computer science, I want to bridge the gap between software research & production systems through visible and autonomous toolchains.
 
 [![Twitter: marcochsner](https://img.shields.io/twitter/follow/marcochsner?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: marcochsner](https://img.shields.io/badge/-marcochsner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcochsner/)](https://www.linkedin.com/in/marcochsner/)
