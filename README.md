@@ -2,10 +2,8 @@
 
 [![Twitter: marcochsner](https://img.shields.io/twitter/follow/marcochsner?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: marcochsner](https://img.shields.io/badge/-marcochsner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcochsner/)](https://www.linkedin.com/in/marcochsner/)
-[![GitHub mochsner](https://img.shields.io/github/followers/mochsner?label=follow&style=social)](https://github.com/mochsner)
-[![GitLab mochsner](https://img.shields.io/badge/dynamic?label=follow&style=social)](https://gitlab.com/mochsner)
-
-[![Linkedin: marcochsner](https://img.shields.io/badge/-mochsner-black?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/mochsner)](https://www.gitlab.com/mochsner/)
+[![GitLab: mochsner](https://img.shields.io/badge/-mochsner-black?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/mochsner)](https://www.gitlab.com/mochsner/)
+[![GitHub: mochsner](https://img.shields.io/github/followers/mochsner?label=follow&style=social)](https://github.com/mochsner)
 
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
