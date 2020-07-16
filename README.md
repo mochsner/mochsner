@@ -10,7 +10,7 @@ I'm passionate about improving company and workflow efficiency, particularly in 
 
 ##### Some websites I've worked on:
 [![Web Resume: marc.ochsner.me](https://img.shields.io/badge/-marc.ochsner.me-black?style=flat-square&logo=gitlab&logoColor=white&link=https://marc.ochsner.me)](https://marc.ochsner.me/)
-[![Wedding Site: Ochsner.us](https://img.shields.io/badge/-ochsners.us-white?style=flat-square&logo=gitlab&logoColor=white&link=https://marc.ochsner.me)](https://ochsners.us)
+[![Wedding Site: Ochsner.us](https://img.shields.io/badge/-ochsners.us-white?style=flat-square&logo=twoo&logoColor=white&link=https://marc.ochsner.me)](https://ochsners.us)
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
