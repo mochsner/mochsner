@@ -10,7 +10,7 @@ I'm passionate about improving company and workflow efficiency, particularly in 
 
 ##### Some websites I've worked on:
 <!--[![Web Resume: marc.ochsner.me](https://img.shields.io/badge/-marc.ochsner.me-black?style=flat-square&logo=gitlab&logoColor=white&link=https://marc.ochsner.me)](https://marc.ochsner.me/)-->
-[![Web Resume: Marc.Ochsner.Me](https://img.shields.io/badge/&#128100;-Marc.Ochsner.Me-Green)](https://marc.ochsner.me)
+[![Web Resume: Marc.Ochsner.Me](https://img.shields.io/badge/&#128100;-marc.ochsner.me-darkgreen)](https://marc.ochsner.me)
 [![Wedding Site: Ochsners.us](https://img.shields.io/badge/&#128141;-ochsners.us-lightblue)](https://ochsners.us)
 
 <!--
