@@ -9,8 +9,10 @@ I'm passionate about improving company and workflow efficiency, particularly in 
 [![GitHub: mochsner](https://img.shields.io/github/followers/mochsner?label=follow&style=social)](https://github.com/mochsner)
 
 ##### Some websites I've worked on:
-[![Web Resume: marc.ochsner.me](https://img.shields.io/badge/-marc.ochsner.me-black?style=flat-square&logo=gitlab&logoColor=white&link=https://marc.ochsner.me)](https://marc.ochsner.me/)
-[![Wedding Site: Ochsners.us](https://img.shields.io/badge/-ochsners.us?style=flat-square&logo=twoo&link=https://ochsners.us)](https://ochsners.us)
+<!--[![Web Resume: marc.ochsner.me](https://img.shields.io/badge/-marc.ochsner.me-black?style=flat-square&logo=gitlab&logoColor=white&link=https://marc.ochsner.me)](https://marc.ochsner.me/)-->
+[![Web Resume: Marc.Ochsner.Me](https://img.shields.io/badge/&#128100;-Marc.Ochsner.Me-Green)](https://marc.ochsner.me)
+[![Wedding Site: Ochsners.us](https://img.shields.io/badge/&#128141;-ochsners.us-lightblue)](https://ochsners.us)
+
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
