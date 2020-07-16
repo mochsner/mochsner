@@ -6,6 +6,8 @@ I'm passionate about improving company and workflow efficiency, particularly in 
 [![GitLab: mochsner](https://img.shields.io/badge/-mochsner-black?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/mochsner)](https://www.gitlab.com/mochsner/)
 [![GitHub: mochsner](https://img.shields.io/github/followers/mochsner?label=follow&style=social)](https://github.com/mochsner)
 
+Interested in my work? Checkout a few of my websites:
+[![Web Resume: marc.ochsner.me](https://img.shields.io/badge/-marc.ochsner.me-white?style=flat-square&logo=ochsner.me&logoColor=black&link=https://marc.ochsner.me)](https://marc.ochsner.me/)
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
