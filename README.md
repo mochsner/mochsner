@@ -7,7 +7,7 @@ I'm passionate about improving company and workflow efficiency, particularly in 
 [![GitHub: mochsner](https://img.shields.io/github/followers/mochsner?label=follow&style=social)](https://github.com/mochsner)
 
 ##### Media
-[![Twitter: marcochsner](https://img.shields.io/twitter/follow/marcochsner?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: marcochsner](https://img.shields.io/twitter/follow/marcochsner?style=social)](https://twitter.com/marcochsner)
 [![Linkedin: marcochsner](https://img.shields.io/badge/-marcochsner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcochsner/)](https://www.linkedin.com/in/marcochsner/)
 
 ##### Web Sites
