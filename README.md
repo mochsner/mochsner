@@ -5,6 +5,8 @@
 [![GitHub mochsner](https://img.shields.io/github/followers/mochsner?label=follow&style=social)](https://github.com/mochsner)
 [![GitLab mochsner](https://img.shields.io/badge/dynamic?label=follow&style=social)](https://gitlab.com/mochsner)
 
+[![Linkedin: marcochsner](https://img.shields.io/badge/-mochsner-black?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/mochsner)](https://www.gitlab.com/mochsner/)
+
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
