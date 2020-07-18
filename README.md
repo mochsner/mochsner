@@ -1,4 +1,8 @@
-### Hi there! I'm Marc 👋
+<!-- 
+Use below as README.md previewer: 
+https://markdown-editor.github.io/ 
+-->
+### Hi there! 👋
 I'm passionate about improving company and workflow efficiency, particularly in the realm of software. Leveraging my background in logistics and computer science, I want to bridge the gap between software research & production systems through visible and autonomous toolchains.
 
 ##### Software
@@ -13,7 +17,7 @@ I'm passionate about improving company and workflow efficiency, particularly in 
 ##### Web Sites
 
 [![Web Resume: Marc.Ochsner.Me](https://img.shields.io/badge/&#128100;-marc.ochsner.me-lightgrey)](https://marc.ochsner.me)
-[![Wedding Site: Ochsners.us](https://img.shields.io/badge/&#128141;-ochsners.us-lightblue)](https://ochsners.us)
+[![Wedding Site: Ochsners.us](https://img.shields.io/badge/&#128141;-ochsners.us-lightblue?fontColor=black)](https://ochsners.us)
 [![Family Blog: Tuurtell](https://img.shields.io/badge/-tuurtell.com-green?style=flat-square&logo=WordPress&logoColor=white&link=https://tuurtell.com/)](https://www.tuurtell.com/)
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
