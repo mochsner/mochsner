@@ -14,7 +14,7 @@ I'm passionate about improving company and workflow efficiency, particularly in 
 
 [![Web Resume: Marc.Ochsner.Me](https://img.shields.io/badge/&#128100;-marc.ochsner.me-lightgrey)](https://marc.ochsner.me)
 [![Wedding Site: Ochsners.us](https://img.shields.io/badge/&#128141;-ochsners.us-lightblue)](https://ochsners.us)
-
+[![Family Blog: Tuurtell](https://img.shields.io/badge/-Tuurtell.com-green?style=flat-square&logo=WordPress&logoColor=white&link=https://tuurtell.com/)](https://www.tuurtell.com/)
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
