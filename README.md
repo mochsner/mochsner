@@ -11,7 +11,6 @@ I'm passionate about improving company and workflow efficiency, particularly in 
 
 ##### Media
 [![StackExchange: mochsner](https://img.shields.io/badge/-mochsner-lightgrey?style=flat-square&logo=StackExchange&logoColor=lightblue&link=https://gitlab.com/mochsner)](https://stackexchange.com/users/7913208/mochsner)
-[![Twitter: marcochsner](https://img.shields.io/twitter/follow/marcochsner?style=social)](https://twitter.com/marcochsner)
 [![Linkedin: marcochsner](https://img.shields.io/badge/-marcochsner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcochsner/)](https://www.linkedin.com/in/marcochsner/)
 
 ##### Web Sites
