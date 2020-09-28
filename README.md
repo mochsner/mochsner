@@ -3,7 +3,7 @@ Use below as README.md previewer:
 https://markdown-editor.github.io/ 
 -->
 ### Hi there! 👋
-I'm passionate about improving company and workflow efficiency, particularly in the realm of software. Leveraging my background in logistics and computer science, I want to bridge the gap between software research & production systems through visible and autonomous toolchains.
+I'm passionate about improving company and workflow efficiency, particularly in the realm of software. Leveraging my background in logistics and computer science, I want to bridge the gap between software research & production systems through best development practices, and visible/autonomous toolchains.
 
 ##### Git
 [![GitLab: mochsner](https://img.shields.io/badge/-mochsner-grey?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/mochsner)](https://www.gitlab.com/mochsner/)
