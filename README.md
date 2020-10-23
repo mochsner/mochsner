@@ -2,7 +2,6 @@
 Use below as README.md previewer: 
 https://markdown-editor.github.io/ 
 -->
-* [ ] Test
 ### Hi there! 👋
 I'm passionate about improving company and workflow efficiency, particularly in the realm of software. Leveraging my background in logistics and computer science, I want to bridge the gap between software research & production systems through best development practices, and visible/autonomous toolchains.
 
