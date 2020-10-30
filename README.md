@@ -10,6 +10,7 @@ I'm passionate about improving company and workflow efficiency, particularly in 
 [![GitHub: mochsner](https://img.shields.io/github/followers/mochsner?label=follow&style=social)](https://github.com/mochsner)
 
 ##### Media
+[![Twitter: moxnt](https://img.shields.io/twitter/follow/moxnr?style=social)](https://twitter.com/moxnr)
 [![StackExchange: mochsner](https://img.shields.io/badge/-mochsner-lightgrey?style=flat-square&logo=StackExchange&logoColor=lightblue&link=https://gitlab.com/mochsner)](https://stackexchange.com/users/7913208/mochsner)
 [![Linkedin: marcochsner](https://img.shields.io/badge/-marcochsner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcochsner/)](https://www.linkedin.com/in/marcochsner/)
 
