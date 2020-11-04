@@ -5,7 +5,8 @@ https://markdown-editor.github.io/
 ### Hi there! 👋
 I'm passionate about improving company and workflow efficiency, particularly in the realm of software. Leveraging my background in logistics and computer science, I want to bridge the gap between software research & production systems through software, including good development practices, visible/autonomous toolchains, and more! 
 
-If you're interested in some of my progress as a developer, feel free to checkout my blog: [![Code Blog](https://img.shields.io/badge/&#128100;-mochsner.github.io-darkgrey)](https://mochsner.github.io)
+If you're interested in some of my progress as a developer, feel free to checkout my blog: 
+[![Code Blog](https://img.shields.io/badge/&#128100;-mochsner.github.io-darkgrey)](https://mochsner.github.io)
 
 ##### Git
 [![GitLab: mochsner](https://img.shields.io/badge/-mochsner-grey?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/mochsner)](https://www.gitlab.com/mochsner/)
