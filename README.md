@@ -3,7 +3,7 @@ Use below as README.md previewer:
 https://markdown-editor.github.io/ 
 -->
 ### Hi there! 👋
-I'm passionate about improving company and workflow efficiency, particularly in the realm of software. Leveraging my background in logistics and computer science, I want to bridge the gap between software research & production systems through software, including good development practices, visible/autonomous toolchains, and more! 
+I'm passionate about improving company and workflow efficiency. Leveraging my background in logistics, computer science, and software development, I want to bridge the gap between software development & production systems through best development practices, visible/autonomous toolchains, and practical collaborative tools! 
 
 If you're interested in some of my progress as a developer, feel free to checkout my blog: 
 
