@@ -16,17 +16,20 @@ I'm passionate about improving company and workflow efficiency. Leveraging my ba
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on...
-  - C# full-stack development
-  - Obsidian.md plugin development
+  - C# (full-stack)
+  - Obsidian.md plugins (typescript/js)
+  - 3D sandbox (python) 
 - 🌱 I’m currently learning...
   - Linear algebra
   - Svelte
-  - Typescript
-  - Mobile development
+  - FHIR
 - ⚡ Fun fact...
-  - I have a 6 month old daughter
   - I work remote!
-- 📫 How to reach me: Telegram/Keybase.io @mochsner 
+  - I have the coolest 6 month old daughter in the world
+- 📫 How to reach me...
+  - Telegram:  @mochsner
+  - Keybase: @mochsner
+  - E-mail (not checked frequently): marc@ochsner.me 
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
