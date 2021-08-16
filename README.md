@@ -24,8 +24,9 @@ I'm passionate about improving company and workflow efficiency. Leveraging my ba
   - Svelte
   - FHIR
 - ⚡ Fun fact...
-  - I work remote!
+  - I work remote
   - I have the coolest 6 month old daughter in the world
+  - My wife @amttt and I both work in healthcare software
 - 📫 How to reach me...
   - Telegram:  @mochsner
   - Keybase: @mochsner
