@@ -23,7 +23,6 @@ I'm passionate about improving company and workflow efficiency. Leveraging my ba
   - FHIR / HL7
   - Obsidian plugin development
 - ⚡ Fun facts...
-  - I work remote
   - I have the [cutest baby daughter](https://adora.ochsners.us)  in the world
   - My wife @amttt and I both work in healthcare software!
 - 📫 How to reach me...
