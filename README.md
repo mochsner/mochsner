@@ -17,20 +17,19 @@ I'm passionate about improving company and workflow efficiency. Leveraging my ba
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on...
   - C# (full-stack)
-  - Obsidian.md plugins (typescript/js)
-  - 3D sandbox (python) 
+  - 3D visualization (python) 
+  - Healthcare interfaces
 - 🌱 I’m currently learning...
-  - Linear algebra
-  - Svelte
-  - FHIR
-- ⚡ Fun fact...
+  - FHIR / HL7
+  - Obsidian plugin development
+- ⚡ Fun facts...
   - I work remote
-  - I have the coolest 6 month old daughter in the world
-  - My wife @amttt and I both work in healthcare software
+  - I have the [cutest baby daughter](https://adora.ochsners.us)  in the world
+  - My wife @amttt and I both work in healthcare software!
 - 📫 How to reach me...
   - Telegram:  @mochsner
   - Keybase: @mochsner
-  - E-mail (not checked frequently): marc@ochsner.me 
+  - E-mail (though spam filters will likely block emails?): marc@ochsner.me 
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
