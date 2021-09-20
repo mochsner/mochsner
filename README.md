@@ -16,8 +16,9 @@ I'm passionate about improving company and workflow efficiency. Leveraging my ba
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on...
-  - C# (full-stack)
-  - 3D visualization (python) 
+  - Front-end (AngularJS)
+  - Back-end (SQL C#)
+  - 3D (Python, JS) 
   - Healthcare interfaces
 - 🌱 I’m currently learning...
   - FHIR / HL7
