@@ -16,10 +16,10 @@ I'm passionate about improving company and workflow efficiency. Leveraging my ba
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on...
-  - Front-end (AngularJS)
+  - Front-end (JS + libs)
   - Back-end (SQL C#)
   - 3D (Python, JS) 
-  - Healthcare interfaces
+  - Healthcare interfaces (FHIR, HL7)
 - 🌱 I’m currently learning...
   - FHIR / HL7
   - Obsidian plugin development
