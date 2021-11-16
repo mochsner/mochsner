@@ -29,7 +29,7 @@ I'm passionate about improving company and workflow efficiency. Leveraging my ba
 - 📫 How to reach me...
   - Telegram:  @mochsner
   - Keybase: @mochsner
-  - E-mail: mochsner(AT)pm(DOT)me
+  - E-mail: *mochsner*(AT)*pm*(DOT)*me*
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
