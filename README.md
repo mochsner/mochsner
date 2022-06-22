@@ -24,8 +24,10 @@ I'm passionate about improving company and workflow efficiency. Leveraging my ba
   - FHIR / HL7
   - Obsidian plugin development
 - ⚡ Fun facts...
+  - I speak Swiss German (somewhat). My proper German is a bit rough, though.
   - I have the [cutest baby daughter](https://adora.ochsners.us)  in the world
-  - My wife @amttt and I both work in healthcare software!
+  - I majored in Management Science (Supply Chains) with a C.S. minor, but all my experience is in systems/development
+  - I love Linux (primary workstation is currently an Ubuntu 20.04 desktop)
 - 📫 How to reach me...
   - Telegram:  @mochsner
   - Keybase: @mochsner
