@@ -3,11 +3,7 @@ Use below as README.md previewer:
 https://markdown-editor.github.io/ 
 -->
 ### Hi there! 👋
-I'm Marc. I love improving workflow efficiency, or as as the Toyota folks say, eliminating 'muda' (waste). My main focus is usually bridging R&D and production systems through transparent development practices, autonomous toolchains, and clean code (reducing technical debt). 
-
-But, at times I tangent to overall company efficiencies, or those involved in life (i.e. home automation, home finances, etc). 
-
-Leveraging my background in logistics, computer science, manufacturing, and more recently, healthcare, I strive to make the world a better place. Or, at minimum, try to keep from making it worse.
+I'm Marc. I love improving workflow efficiency, or as as the Toyota folks say, eliminating 'muda' (waste). My main focus is usually bridging R&D and production systems through transparent development practices, autonomous toolchains, clean code (reducing technical debt), and an intuitive User Experience (UX) from both an end-user and systems delivery & monitoring perspective.
 
 ##### Development 
 [![GitLab: mochsner](https://img.shields.io/badge/-mochsner-grey?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/mochsner)](https://www.gitlab.com/mochsner/) [![GitHub: mochsner](https://img.shields.io/github/followers/mochsner?label=follow&style=social)](https://github.com/mochsner)
