@@ -3,7 +3,7 @@ Use below as README.md previewer:
 https://markdown-editor.github.io/ 
 -->
 ### Hi there! 👋
-I'm Marc, and I'm a developer. I appreciate working with smart people on complex systems. There's always things to improve, and I like to do just that. Whether it's adding new features, reducing technical debt, or improving the delivery process (from the moment development is done and things need to be tested or rolled out).
+I'm Marc, and I'm a developer.
 
 ##### Development 
 [![GitLab: mochsner](https://img.shields.io/badge/-mochsner-grey?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/mochsner)](https://www.gitlab.com/mochsner/) [![GitHub: mochsner](https://img.shields.io/github/followers/mochsner?label=follow&style=social)](https://github.com/mochsner)
