@@ -19,8 +19,8 @@ I'm Marc, and I love solving problems using software.
 - ⚡ About
   - Studied Management Science and Computer Science (Bayesian Networks), using C#, Python/C++ and some Java
   - Worked across healthcare, manufacturing, government contracting and even a little bit of real estate.
-  - <3 Linux and open source (promoting "anti-trust" in big tech, since data isn't regulated like money is :( )
-  - Opinion: tools that lack accountability/context for content shared and promote disinformation (e.g. LLMs, some forms of social media, etc) are a either unethical, or at minimum, an ethical gray area. 
+  - <3 Linux / open source (will go slightly out of my way for alternatives to big tech offerings)
+  - [Change my mind] I'm of the opinion that sources and 'why' an answer is true are more important than 'what' the answer is. Absorbing information without (evidence | source | identity | context) is an ethical gray area. 
 - 📫 How to reach me...
   - Mastodon: https://mstdn.social/@mochsner
   - Telegram:  @mochsner
