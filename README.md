@@ -17,14 +17,12 @@ I'm Marc, and I love solving problems using software.
 
 - 😄 Pronouns: he/him
 - ⚡ About
-  - Studied Management Science and Computer Science (Bayesian Networks), using C#, Python/C++ and some Java
-  - Worked across healthcare, manufacturing, government contracting and even a little bit of real estate.
-  - <3 Linux / open source (will go slightly out of my way for alternatives to big tech offerings)
-  - [Change my mind] I'm of the opinion that sources and 'why' an answer is true are more important than 'what' the answer is. Absorbing information without (evidence | source | identity | context) is an ethical gray area. 
+  - Studied Mgmt Sci / Comp Sci... have had fun w/ Python, C# and JavaScript/Typescript.
+  - I love linux / community driven projects (will go slightly out of my way for alternatives to big tech offerings)
+  - To me, for learning and accountability, {REASON} an answer is {VALUE} is more important than what {VALUE} is. Absorbing information without a source is questionable in terms of stealing work, as well as missing context as to why an answer may be given (e.g. a developer answering question, dogfooding their own package). For quickly generating bootstrapped code, LLMs may be helpful, but I'd prefer not to use them myself, as of 2023..
 - 📫 How to reach me...
   - Mastodon: https://mstdn.social/@mochsner
-  - Telegram:  @mochsner
-  - E-mail: *mochsner*(AT)*pm*(DOT)*me*
+  - E-mail: *mochsner*(AT)*pm*(D0T)*me*
 <!--
 **mochsner/mochsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
