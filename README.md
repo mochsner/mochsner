@@ -19,9 +19,7 @@ I'm Marc, and I love solving problems using software.
 - ⚡ About
   - Studied Mgmt Sci / Comp Sci... have had fun w/ Python, C# and JavaScript/Typescript.
   - I love linux / community driven projects (will go slightly out of my way for alternatives to big tech offerings)
-  - To me, `{REASON}` an answer is `{VALUE}` is more important than what `{VALUE}` is.
-    - Absorbing information without a source is questionable in terms of stealing work, as well as missing context as to why an answer may be given (e.g. a developer answering question, dogfooding their own package).
-    - For quickly generating bootstrapped code, LLMs may be helpful, but as of 2023, I'd prefer not to use them myself
+  - I believe Machine Learning & Data tools should be precise and targeted use cases, rather than generalized. This allows more oversight and analysis.
 - 📫 How to reach me...
   - Mastodon: https://mstdn.social/@mochsner
   - E-mail: *mochsner*(AT)*pm*(D0T)*me*
