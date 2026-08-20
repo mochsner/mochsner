@@ -17,9 +17,9 @@ I'm Marc, and I love solving problems using software.
 
 - 😄 Pronouns: he/him
 - ⚡ About
-  - Studied Mgmt Sci / Comp Sci... have had fun w/ Python, C# and JavaScript/Typescript.
-  - I love linux / community driven projects (will go slightly out of my way for alternatives to big tech offerings)
-  - I believe Machine Learning & Data tools should be precise and targeted use cases, rather than generalized. This allows more oversight and analysis.
+  - Studied Management Science, Computer Science, and Artificial Intelligence. I enjoy using Python, C# and JavaScript/Typescript.
+  - I <3 Linux (10+ years of use), as well as most community or open source projects (will go slightly out of my way for alternatives to big tech offerings)
+  - I enjoy using Machine Learning & Data tools more precisely, with targeted use cases, rather than general LLMs to solve most tasks. I'm of the opinion that when LLM or large transformer based models are needed, the workflows should be _reproducible_ using open source or local models when possible. (Note: I like gemma4 and qwen3.6/3.8)
 - 📫 How to reach me...
   - Mastodon: https://mstdn.social/@mochsner
   - E-mail: *mochsner*(AT)*pm*(D0T)*me*
