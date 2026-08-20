@@ -14,8 +14,6 @@ I'm Marc, and I love solving problems using software.
 [![Personal Site](https://img.shields.io/badge/&#128100;-mochsner.github.io-darkgrey)](https://mochsner.github.io) 
 [![Web Resume: Marc.Ochsner.Me](https://img.shields.io/badge/&#128100;-marc.ochsner.me-lightgrey)](https://marc.ochsner.me) 
 
-
-- 😄 Pronouns: he/him
 - ⚡ About
   - Studied Management Science, Computer Science, and Artificial Intelligence. I enjoy using Python, C# and JavaScript/Typescript.
   - I <3 Linux (10+ years of use), as well as most community or open source projects (will go slightly out of my way for alternatives to big tech offerings)
