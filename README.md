@@ -17,7 +17,7 @@ I'm Marc, and I love solving problems using software.
 - ⚡ About
   - Studied Management Science, Computer Science, and Artificial Intelligence. I enjoy using Python, C# and JavaScript/Typescript.
   - I <3 Linux (10+ years of use), as well as most community or open source projects (will go slightly out of my way for alternatives to big tech offerings)
-  - I enjoy using Machine Learning & Data tools, particularly local models like Gemma 4 and Qwen 3.6/3.8
+  - I enjoy using Machine Learning & Data tools.
 - 📫 How to reach me...
   - Mastodon: https://mstdn.social/@mochsner
   - E-mail: *mochsner*(AT)*pm*(D0T)*me*
